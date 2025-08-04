@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Hayat Roubakhi, a student at the School of Applied Sciences (ENSA) in Tetouan.
+## I'm Hayat Roubakhi, 
 #### :zap:  Starting a new Internship
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hayatvhyr.profile)
 <p>
